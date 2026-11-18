@@ -1,0 +1,6 @@
+{
+  "name": "TaskForge Java 17 & AI Task Manager",
+  "description": "Plain Java 17 AI-native task manager architecture, API contract, test suite, and live Gemini-powered workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
